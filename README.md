@@ -1,7 +1,7 @@
 # food_app
 
 A new Flutter project.
-zadoo jelek
+zadoo jelek syg ita
 ## Getting Started
 
 This project is a starting point for a Flutter application.
